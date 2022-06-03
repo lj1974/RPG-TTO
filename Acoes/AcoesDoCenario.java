@@ -1,4 +1,4 @@
-package Negocio;
+package Acoes;
 
 public class AcoesDoCenario {
     
